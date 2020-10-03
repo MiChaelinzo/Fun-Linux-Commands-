@@ -1,4 +1,4 @@
-Commands for Linux/GNU
+### Commands for Linux/GNU
 ``` 
 sudo apt-get install "commands" //if your missing it
 
