@@ -1,5 +1,5 @@
 Commands for Linux/GNU
-
+``` 
 sudo apt-get install "commands" //if your missing it
 
 $ cowsay "Random Text"
@@ -197,3 +197,4 @@ $ screenfetch //display OS symbol and system informations
 $ oneko //cat chasing your mouse cursor
 
 $ while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1; done //Display current date and time in a colourfulway
+``` 
