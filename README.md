@@ -1,6 +1,7 @@
 ### Commands for Linux/GNU
 ``` 
-sudo apt-get install "commands" //if your missing it
+sudo apt-get install "commands" //if command not found
+
 
 $ cowsay "Random Text"
 _____________
